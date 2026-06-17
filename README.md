@@ -2,25 +2,61 @@
 
 A collection of basic C programming programs created while learning the fundamentals of the C language. This repository is designed for beginners who want to understand core programming concepts through simple examples.
 
-## Topics Covered
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Basics%20of%20C&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=My%20C%20Programming%20Learning%20Journey&descAlignY=58" />
+</p>
 
-* Input and Output
-* Variables and Data Types
-* Operators
-* Conditional Statements (`if`, `if-else`, `switch`)
-* Loops (`for`, `while`, `do-while`)
-* Functions
-* Arrays
-* Strings
-* Pointers
-* Basic Problem Solving Programs
+<h1 align="center">💻 Basics of C</h1>
 
-## Requirements
+<p align="center">
+  A collection of C programming programs and exercises created while learning the fundamentals of programming.
+</p>
 
-* GCC Compiler or any C Compiler
-* Code Editor (VS Code, Sublime Text, Code::Blocks, etc.)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Next%20Goal-DSA-orange?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/mdaybhaq/Basics-Of-C?style=for-the-badge">
+</p>
 
-## How to Run
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+C+Programming;Practicing+Programming+Concepts;Building+a+Strong+Foundation;Future+DSA+Learner" />
+</p>
+
+---
+
+## 📖 About This Repository
+
+This repository contains my practice programs, examples, and exercises while learning the C programming language.
+
+The goal is to build a strong understanding of programming fundamentals before moving on to **Data Structures & Algorithms (DSA)**.
+
+---
+
+## 📚 Topics Covered
+
+* ✅ Input & Output
+* ✅ Variables & Data Types
+* ✅ Operators
+* ✅ Conditional Statements
+* ✅ Loops
+* ✅ Functions
+* ✅ Arrays
+* ✅ Strings
+* ✅ Pointers
+* ✅ Basic Problem Solving
+
+---
+
+## 🛠️ Technologies Used
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,vscode,git,github" />
+</p>
+
+---
+
+## 🚀 How to Run
 
 1. Clone the repository:
 
@@ -28,7 +64,7 @@ A collection of basic C programming programs created while learning the fundamen
 git clone https://github.com/mdaybhaq/Basics-Of-C.git
 ```
 
-2. Navigate to the project folder:
+2. Open the project folder:
 
 ```bash
 cd Basics-Of-C
@@ -46,22 +82,42 @@ gcc filename.c -o output
 ./output
 ```
 
-## Purpose
+---
 
-This repository serves as my learning journey in C programming. It contains practice programs and examples that help build a strong foundation before moving on to Data Structures and Algorithms (DSA).
+## 📈 Learning Progress
 
-## Learning Path
+```text
+C Programming          ███████████░░░░░ 70%
+Data Structures        ░░░░░░░░░░░░░░░░ 0%
+Algorithms             ░░░░░░░░░░░░░░░░ 0%
+```
 
-✅ C Programming Basics
-🔄 Currently Learning C
-🎯 Next Goal: Data Structures & Algorithms
+---
 
-## Contributing
+## 🎯 Current Goal
 
-Suggestions and improvements are welcome. Feel free to fork the repository and submit a pull request.
+🌱 Currently learning **C Programming**
 
-## Author
+🚀 Next step: **Data Structures & Algorithms (DSA)**
 
-**Md Ayubul Haque**
+---
 
-* GitHub: https://github.com/mdaybhaq
+## 👨‍💻 Author
+
+### Md Ayubul Haque
+
+<p>
+  <a href="https://github.com/mdaybhaq">
+    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like this repository, don't forget to give it a star!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>

@@ -1,4 +1,0 @@
-1) Finding maximum number in an Array. 
-   https://github.com/mdaybhaq/Basics-Of-C/blob/main/C-Problem-Solving-To-Advance(FOLDER)/maximumInArray.c
-
-2)
